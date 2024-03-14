@@ -23,6 +23,7 @@ color: var(--red);
 text-align: center;
 overflow:auto;
 }
+
 .container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
